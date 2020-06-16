@@ -5,21 +5,9 @@ html, body, header, div, h1, h2, h3, h4, ul, li, img, p {
 }
 /* Fin Reset CSS */
 
-@font-face {
-    font-family: 'aaarghnormal';
-    src: url('Aaargh-webfont.eot');
-    src: url('Aaargh-webfont.eot?#iefix') format('embedded-opentype'),
-         url('Aaargh-webfont.woff2') format('woff2'),
-         url('Aaargh-webfont.woff') format('woff'),
-         url('Aaargh-webfont.ttf') format('truetype'),
-         url('Aaargh-webfont.svg#aaarghnormal') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
-
 :root {
     --border-color: #776c65;
-    --font-family: 'aaarghnormal', Arial, Helvetica, sans-serif;
+    --font-family: Arial, Helvetica, sans-serif;
     --marronfoncé-color: #805346;
 }
 
